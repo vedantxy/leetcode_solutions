@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/vedantxy/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0268-missing-number) |
 | [0896-monotonic-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/vedantxy/leetcode_solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vedantxy/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/vedantxy/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vedantxy/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Simulation
@@ -50,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -59,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vedantxy/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
