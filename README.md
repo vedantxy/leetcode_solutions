@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/vedantxy/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3828-final-element-after-subarray-deletions](https://github.com/vedantxy/leetcode_solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search
 |  |
@@ -82,9 +83,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0268-missing-number) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Brainteaser
 |  |
 | ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3828-final-element-after-subarray-deletions](https://github.com/vedantxy/leetcode_solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
