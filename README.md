@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedantxy/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vedantxy/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3828-final-element-after-subarray-deletions](https://github.com/vedantxy/leetcode_solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vedantxy/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vedantxy/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vedantxy/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vedantxy/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Sliding Window
 |  |
 | ------- |
