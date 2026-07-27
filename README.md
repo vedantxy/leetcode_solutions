@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3828-final-element-after-subarray-deletions](https://github.com/vedantxy/leetcode_solutions/tree/master/3828-final-element-after-subarray-deletions) |
+| [3925-concatenate-array-with-reverse](https://github.com/vedantxy/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vedantxy/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/vedantxy/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
