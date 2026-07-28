@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedantxy/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/vedantxy/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/vedantxy/leetcode_solutions/tree/master/1227-airplane-seat-assignment-probability) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vedantxy/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3828-final-element-after-subarray-deletions](https://github.com/vedantxy/leetcode_solutions/tree/master/3828-final-element-after-subarray-deletions) |
@@ -93,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/vedantxy/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/vedantxy/leetcode_solutions/tree/master/1227-airplane-seat-assignment-probability) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3828-final-element-after-subarray-deletions](https://github.com/vedantxy/leetcode_solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/vedantxy/leetcode_solutions/tree/master/1025-divisor-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/vedantxy/leetcode_solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Heap (Priority Queue)
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/vedantxy/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/vedantxy/leetcode_solutions/tree/master/1227-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
