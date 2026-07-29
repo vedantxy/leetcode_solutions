@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vedantxy/leetcode_solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3024-type-of-triangle](https://github.com/vedantxy/leetcode_solutions/tree/master/3024-type-of-triangle) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3828-final-element-after-subarray-deletions](https://github.com/vedantxy/leetcode_solutions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3925-concatenate-array-with-reverse](https://github.com/vedantxy/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/vedantxy/leetcode_solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vedantxy/leetcode_solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/vedantxy/leetcode_solutions/tree/master/3024-type-of-triangle) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vedantxy/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3828-final-element-after-subarray-deletions](https://github.com/vedantxy/leetcode_solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Two Pointers
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vedantxy/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3024-type-of-triangle](https://github.com/vedantxy/leetcode_solutions/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
