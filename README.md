@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/vedantxy/leetcode_solutions/tree/master/1227-airplane-seat-assignment-probability) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/vedantxy/leetcode_solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
