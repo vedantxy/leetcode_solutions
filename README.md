@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vedantxy/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/vedantxy/leetcode_solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/vedantxy/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedantxy/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vedantxy/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/vedantxy/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/vedantxy/leetcode_solutions/tree/master/1227-airplane-seat-assignment-probability) |
 ## Probability and Statistics
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/vedantxy/leetcode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/vedantxy/leetcode_solutions/tree/master/0182-duplicate-emails) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vedantxy/leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
