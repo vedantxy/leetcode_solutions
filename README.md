@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/vedantxy/leetcode_solutions/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vedantxy/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vedantxy/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [3163-string-compression-iii](https://github.com/vedantxy/leetcode_solutions/tree/master/3163-string-compression-iii) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vedantxy/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Sliding Window
 |  |
