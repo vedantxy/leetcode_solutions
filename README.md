@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vedantxy/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vedantxy/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedantxy/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/vedantxy/leetcode_solutions/tree/master/0443-string-compression) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vedantxy/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vedantxy/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/vedantxy/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vedantxy/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vedantxy/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vedantxy/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
