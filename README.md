@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/vedantxy/leetcode_solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/vedantxy/leetcode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/vedantxy/leetcode_solutions/tree/master/0182-duplicate-emails) |
+| [0584-find-customer-referee](https://github.com/vedantxy/leetcode_solutions/tree/master/0584-find-customer-referee) |
 | [0610-triangle-judgement](https://github.com/vedantxy/leetcode_solutions/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/vedantxy/leetcode_solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/vedantxy/leetcode_solutions/tree/master/0627-swap-sex-of-employees) |
