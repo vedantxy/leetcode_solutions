@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/vedantxy/leetcode_solutions/tree/master/0182-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/vedantxy/leetcode_solutions/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/vedantxy/leetcode_solutions/tree/master/1148-article-views-i) |
+| [1693-daily-leads-and-partners](https://github.com/vedantxy/leetcode_solutions/tree/master/1693-daily-leads-and-partners) |
 | [1965-employees-with-missing-information](https://github.com/vedantxy/leetcode_solutions/tree/master/1965-employees-with-missing-information) |
 ## Memoization
 |  |
