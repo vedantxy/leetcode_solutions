@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/vedantxy/leetcode_solutions/tree/master/0038-count-and-say) |
 | [0168-excel-sheet-column-title](https://github.com/vedantxy/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/vedantxy/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vedantxy/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vedantxy/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vedantxy/leetcode_solutions/tree/master/0443-string-compression) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vedantxy/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vedantxy/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/vedantxy/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/vedantxy/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vedantxy/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vedantxy/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedantxy/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
