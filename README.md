@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vedantxy/leetcode_solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/vedantxy/leetcode_solutions/tree/master/3024-type-of-triangle) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3828-final-element-after-subarray-deletions](https://github.com/vedantxy/leetcode_solutions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3925-concatenate-array-with-reverse](https://github.com/vedantxy/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vedantxy/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vedantxy/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vedantxy/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vedantxy/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
