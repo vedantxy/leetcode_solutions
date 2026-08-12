@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vedantxy/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -220,12 +221,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vedantxy/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0202-happy-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
