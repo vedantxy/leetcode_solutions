@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vedantxy/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedantxy/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0896-monotonic-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vedantxy/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1313-decompress-run-length-encoded-list](https://github.com/vedantxy/leetcode_solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vedantxy/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vedantxy/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vedantxy/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vedantxy/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vedantxy/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vedantxy/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
