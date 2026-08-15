@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vedantxy/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/vedantxy/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/vedantxy/leetcode_solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/vedantxy/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedantxy/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/vedantxy/leetcode_solutions/tree/master/0908-smallest-range-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/vedantxy/leetcode_solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/vedantxy/leetcode_solutions/tree/master/0605-can-place-flowers) |
 ## Counting Sort
 |  |
 | ------- |
