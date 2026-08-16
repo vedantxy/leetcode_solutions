@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/vedantxy/leetcode_solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vedantxy/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1528-shuffle-string](https://github.com/vedantxy/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/vedantxy/leetcode_solutions/tree/master/1550-three-consecutive-odds) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vedantxy/leetcode_solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/vedantxy/leetcode_solutions/tree/master/1652-defuse-the-bomb) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/vedantxy/leetcode_solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/vedantxy/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vedantxy/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1528-shuffle-string](https://github.com/vedantxy/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vedantxy/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3163-string-compression-iii](https://github.com/vedantxy/leetcode_solutions/tree/master/3163-string-compression-iii) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vedantxy/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
