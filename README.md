@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/vedantxy/leetcode_solutions/tree/master/1550-three-consecutive-odds) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vedantxy/leetcode_solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/vedantxy/leetcode_solutions/tree/master/1652-defuse-the-bomb) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vedantxy/leetcode_solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/vedantxy/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/vedantxy/leetcode_solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/vedantxy/leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vedantxy/leetcode_solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Counting Sort
 |  |
 | ------- |
