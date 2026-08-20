@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/vedantxy/leetcode_solutions/tree/master/1550-three-consecutive-odds) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vedantxy/leetcode_solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/vedantxy/leetcode_solutions/tree/master/1652-defuse-the-bomb) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vedantxy/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vedantxy/leetcode_solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/vedantxy/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/vedantxy/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vedantxy/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/vedantxy/leetcode_solutions/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vedantxy/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vedantxy/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3163-string-compression-iii](https://github.com/vedantxy/leetcode_solutions/tree/master/3163-string-compression-iii) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vedantxy/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
