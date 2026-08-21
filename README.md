@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vedantxy/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vedantxy/leetcode_solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/vedantxy/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vedantxy/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vedantxy/leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vedantxy/leetcode_solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/vedantxy/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vedantxy/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vedantxy/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vedantxy/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3163-string-compression-iii](https://github.com/vedantxy/leetcode_solutions/tree/master/3163-string-compression-iii) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vedantxy/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Sliding Window
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vedantxy/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/vedantxy/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vedantxy/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/vedantxy/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
