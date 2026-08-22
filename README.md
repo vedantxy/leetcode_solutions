@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/vedantxy/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/vedantxy/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/vedantxy/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0137-single-number-ii](https://github.com/vedantxy/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedantxy/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0189-rotate-array) |
