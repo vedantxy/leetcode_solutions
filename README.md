@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vedantxy/leetcode_solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/vedantxy/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/vedantxy/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vedantxy/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/vedantxy/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0137-single-number-ii](https://github.com/vedantxy/leetcode_solutions/tree/master/0137-single-number-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vedantxy/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vedantxy/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/vedantxy/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/vedantxy/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/vedantxy/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vedantxy/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/vedantxy/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
@@ -298,5 +300,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vedantxy/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vedantxy/leetcode_solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
