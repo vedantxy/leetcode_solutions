@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vedantxy/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vedantxy/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vedantxy/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/vedantxy/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vedantxy/leetcode_solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/vedantxy/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantxy/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vedantxy/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/vedantxy/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vedantxy/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/vedantxy/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vedantxy/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vedantxy/leetcode_solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/vedantxy/leetcode_solutions/tree/master/0541-reverse-string-ii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vedantxy/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/vedantxy/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/vedantxy/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/vedantxy/leetcode_solutions/tree/master/1227-airplane-seat-assignment-probability) |
 ## Probability and Statistics
