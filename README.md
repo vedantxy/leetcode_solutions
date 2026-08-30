@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/vedantxy/leetcode_solutions/tree/master/3024-type-of-triangle) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vedantxy/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3828-final-element-after-subarray-deletions](https://github.com/vedantxy/leetcode_solutions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3925-concatenate-array-with-reverse](https://github.com/vedantxy/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vedantxy/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vedantxy/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vedantxy/leetcode_solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vedantxy/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
