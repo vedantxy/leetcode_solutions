@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vedantxy/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/vedantxy/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vedantxy/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/vedantxy/leetcode_solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/vedantxy/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0137-single-number-ii](https://github.com/vedantxy/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedantxy/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vedantxy/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/vedantxy/leetcode_solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vedantxy/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/vedantxy/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/vedantxy/leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vedantxy/leetcode_solutions/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/vedantxy/leetcode_solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/vedantxy/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vedantxy/leetcode_solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
